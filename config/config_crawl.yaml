@@ -1,0 +1,3 @@
+input_url_file: './data/crawl/url_list/single_url.txt'
+output_folder: './data/data_for_index/sample/'
+headless: True

@@ -1,0 +1,5 @@
+# Location of a directory containing the train, test and dev files in CSV format.
+base: './data/DelucionQA_final/'
+
+# Location of the jsonl file containing the fulltext of the Jeep Gladiator 2023 manual as result of crawling
+full_text_location: './data/data_for_index/sample/data.jsonl'

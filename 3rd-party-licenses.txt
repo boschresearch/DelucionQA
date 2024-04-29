@@ -1,0 +1,53 @@
+Third Party Licenses
+====================
+
+Benchmarks includes material from the projects listed below (Third Party
+IP). The original copyright notice and the license under which we received
+such Third Party IP, are set forth below.
+
+
+
+Name: pytest-playwright
+Version: 0.4.4
+Summary: A pytest wrapper with fixtures for Playwright to automate web browsers
+URL: https://github.com/microsoft/playwright-pytest
+License: Apache-2.0
+
+Name: pydantic
+Version: 2.5.3
+Summary: Data validation using Python type hints
+URL: https://github.com/pydantic/pydantic
+License: MIT
+
+Name: tqdm
+Version: 4.66.1
+Summary: Fast, Extensible Progress Meter
+URL: https://github.com/tqdm/tqdm
+License: MPL-2.0 AND MIT
+
+Name: beautifulsoup4
+Version: 4.12.2
+Summary: Screen-scraping library
+URL: https://beautiful-soup-4.readthedocs.io/en/latest/
+License: MIT
+
+Name: hydra-core
+Version: 1.3.2
+Summary: A framework for elegantly configuring complex applications
+URL: https://github.com/facebookresearch/hydra
+License: MIT
+
+Name: pandas
+Version: 2.2.0
+Summary: Powerful data structures for data analysis, time series, and statistics
+URL: https://pandas.pydata.org
+License: BSD 3-Clause License
+
+Name: nltk
+Version: 3.8.1
+Summary: Natural Language Toolkit
+URL: https://www.nltk.org/
+License: Apache License, Version 2.0
+
+
+
